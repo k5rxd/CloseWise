@@ -11,6 +11,11 @@
   [Download latest release](https://github.com/k5rxd/CloseWise/releases/latest) · [Report an issue](https://github.com/k5rxd/CloseWise/issues)
 </div>
 
+<div align="center">
+  <img src="docs/images/brand/closewise-cipher-hero.png" width="100%" alt="CloseWise cinematic privacy and app-management concept" />
+  <sub>The hidden <strong>CW</strong> inside the progress ring represents quiet control: visible progress, private execution.</sub>
+</div>
+
 ## Overview
 
 CloseWise turns Android's per-app **App info → Force stop** workflow into a controlled queue. It targets only recently active, eligible apps; protects critical components; respects a persistent exclusion list; and provides a single animated progress surface throughout the operation.
