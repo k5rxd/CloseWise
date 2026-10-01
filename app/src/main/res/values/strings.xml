@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CloseWise</string>
+    <string name="accessibility_service_name">CloseWise app closer</string>
+    <string name="accessibility_description">Allows CloseWise to press Force stop and its confirmation on Android App info screens. It does not read or type personal content.</string>
+    <string name="title">A calmer phone, in one tap.</string>
+    <string name="subtitle">Close chosen background apps through Android’s own App info controls.</string>
+    <string name="service_ready">Automation ready</string>
+    <string name="service_needed">Enable automation</string>
+    <string name="service_ready_detail">Accessibility is enabled</string>
+    <string name="service_needed_detail">Required to press Force stop</string>
+    <string name="choose_apps">Choose what to close</string>
+    <string name="user_apps">User apps</string>
+    <string name="system_apps">System apps</string>
+    <string name="all_apps">All apps</string>
+    <string name="filter_detail">Only recently active apps are queued · essentials stay protected</string>
+    <string name="excluded_apps">Excluded apps</string>
+    <string name="excluded_apps_detail">Choose apps CloseWise should never touch</string>
+    <plurals name="excluded_count">
+        <item quantity="one">%1$d app excluded</item>
+        <item quantity="other">%1$d apps excluded</item>
+    </plurals>
+    <string name="none_excluded">No apps excluded</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="exclusion_manager">Exclusion manager</string>
+    <string name="exclusion_manager_detail">Excluded apps are never opened or force-stopped.</string>
+    <string name="search_apps">Search apps or package names</string>
+    <string name="loading_apps">Loading app library…</string>
+    <string name="none_selected">Nothing selected</string>
+    <plurals name="selected_count">
+        <item quantity="one">%1$d app selected</item>
+        <item quantity="other">%1$d apps selected</item>
+    </plurals>
+    <string name="user_badge">USER</string>
+    <string name="system_badge">SYSTEM</string>
+    <string name="recent_activity">Recent activity</string>
+    <string name="usage_access_needed">Enable usage access</string>
+    <string name="usage_access_detail">See apps opened during the last 15 minutes</string>
+    <string name="no_recent_activity">No recent app activity</string>
+    <plurals name="recent_count">
+        <item quantity="one">%1$d app active recently</item>
+        <item quantity="other">%1$d apps active recently</item>
+    </plurals>
+    <plurals name="eligible_count">
+        <item quantity="one">%1$d recently active app eligible</item>
+        <item quantity="other">%1$d recently active apps eligible</item>
+    </plurals>
+    <string name="close_apps">Close apps</string>
+    <string name="scanning">Preparing…</string>
+    <string name="no_apps">No eligible apps were found.</string>
+    <string name="usage_access_required">Enable Usage Access so CloseWise can target only recently active apps.</string>
+    <string name="service_reconnecting">Automation is reconnecting. Re-enable CloseWise and try again.</string>
+    <string name="cleanup_complete">Cleanup complete</string>
+    <string name="cleanup_stopped">Cleanup stopped</string>
+    <string name="cleanup_result">%1$d checked · %2$d force-stopped</string>
+    <plurals name="cleanup_complete_detail">
+        <item quantity="one">CloseWise securely checked %1$d app using Android’s own controls.</item>
+        <item quantity="other">CloseWise securely checked %1$d apps using Android’s own controls.</item>
+    </plurals>
+    <string name="done">Done</string>
+    <string name="overlay_title">Closing active apps</string>
+    <string name="overlay_preparing">Preparing secure automation…</string>
+    <string name="overlay_progress">App %1$d of %2$d</string>
+    <string name="overlay_stop">Stop cleanup</string>
+    <plurals name="closing_count">
+        <item quantity="one">Closing %1$d app…</item>
+        <item quantity="other">Closing %1$d apps…</item>
+    </plurals>
+    <string name="privacy_note">Everything runs locally. CloseWise never uploads your app list.</string>
+    <string name="developer_credit">Kazi Golam Rafsan · github.com/k5rxd</string>
+    <string name="github_url">https://github.com/k5rxd</string>
+</resources>

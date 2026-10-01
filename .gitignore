@@ -1,0 +1,12 @@
+.gradle/
+.analysis-venv/
+**/build/
+local.properties
+keystore.properties
+*.jks
+test-artifacts/
+*.log
+*.apk
+androguard.db
+.idea/
+*.iml

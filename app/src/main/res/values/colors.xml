@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#050B16</color>
+    <color name="surface">#0B182A</color>
+    <color name="surface_alt">#142641</color>
+    <color name="mint">#5EF2BE</color>
+    <color name="cyan">#42DFFF</color>
+    <color name="text_primary">#F8FBFF</color>
+    <color name="text_secondary">#9FB5D2</color>
+    <color name="danger">#FF7283</color>
+</resources>
